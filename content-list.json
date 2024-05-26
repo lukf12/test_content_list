@@ -4,24 +4,24 @@
 
 		{
 			"sdk_content_item": {
+				"url": "http://192.168.0.22:8080/live/livestream.m3u8"
+			}
+		},
+
+		{
+			"sdk_content_item": {
+				"url": "http://192.168.0.33:8080/live/livestream.m3u8"
+			}
+		},
+		{
+			"sdk_content_item": {
 				"url": "http://192.168.0.44:8080/live/livestream.m3u8"
 			}
 		},
 
 		{
 			"sdk_content_item": {
-				"url": "http://192.168.0.44:8080/live/livestream.m3u8"
-			}
-		},
-		{
-			"sdk_content_item": {
-				"url": "http://192.168.0.44:8080/live/livestream.m3u8"
-			}
-		},
-
-		{
-			"sdk_content_item": {
-				"url": "http://192.168.0.44:8080/live/livestream.m3u8"
+				"url": "http://192.168.0.55:8080/live/livestream.m3u8"
 			}
 		}
 	]
